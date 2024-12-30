@@ -5,6 +5,7 @@ from PyPDF2 import PdfReader
 tool= language_tool_python.LanguageTool('en-US')
 
 pdf_path= input("please enter the path of the pdf file you want to check:  ")
+#or directly we can add the path of the pdf to the pdf_path
 
 pdf_text= " "
 def extract_text_from_pdf(pdf_path):
