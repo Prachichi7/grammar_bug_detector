@@ -1,7 +1,7 @@
 **Grammar Bug Detector**
 
 A simple yet powerful Python-based tool to detect grammar issues in text including content from PDF files, using the *TextBlob* library. 
-This project aims to help users quickly identify and correct grammatical mistakes, making it ideal for students, content creators, and developers.
+This project aims to help users quickly identify and correct grammatical mistakes, making it ideal for students, and developers.
 
 ***Features***
 
